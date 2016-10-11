@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Risk Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="attackers">Attackers</string>
+    <string name="defenders">Defenders</string>
+    <string name="numAttackers">Number of \nAttackers</string>
+    <string name="numDefenders">Number of \nDefenders</string>
+    <string name="oneeach">1 Each Apiece</string>
+    <string name="attackersloseone">Attackers Lose 1</string>
+    <string name="attackerslosetwo">Attackers Lose 2</string>
+    <string name="defendersloseone">Defenders Lose 1</string>
+    <string name="defenderslosetwo">Defenders Lose 2</string>
+    <string name="wrongattack">No value given for attackers</string>
+    <string name="wrongdefence">No value given for defenders</string>
+    <string name="wronggeneral">Input both values</string>
+    <string name="attackerswinfinal">ATTACKERS WIN</string>
+    <string name="defenderswinfinal">DEFENDERS WIN</string>
+    <string name="attackerslosefinal">ATTACKERS LOSE</string>
+    <string name="defenderslosefinal">DEFENDERS LOSE</string>
+    <string name="numbersreset">Numbers reset</string>
+</resources>
